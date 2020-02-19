@@ -13,13 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dom owens
+title: Dom Owens
 email: dom.owens(at)bristol.ac.uk
-description: >- # this means to ignore newlines until "baseurl:" Statistics PhD student at the University of Bristol
+description: "Statistics PhD student at the University of Bristol" #>- # this means to ignore newlines until "baseurl:" Statistics PhD student at the University of Bristol
 twitter_username: #"@DomOwens11"
 github_username: #"Dom-Owens-UoB"
 minimal_mistakes_skin: dark
 search: true
+title_separator: "|"
+teaser: /assets/images/Voronoi.png
+logo: /assets/images/Delta.png
 
 # Build settings
 markdown: kramdown
@@ -58,10 +61,11 @@ author:
   name   : "Dom Owens"
   avatar : "/assets/images/Dom1.jpg"
   bio    : "Statistics PhD student at the University of Bristol."
+  location: "Bristol, UK"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://dom-owens-uob.github.io/Dom-Owens-UoB.github.io/"
+      url: "https://dom-owens-uob.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/DomOwens11"
@@ -97,7 +101,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: true
 
 category_archive:
