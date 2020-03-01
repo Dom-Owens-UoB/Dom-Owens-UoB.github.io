@@ -11,4 +11,4 @@ I'm interested in time series analysis, high dimensional statistics, and non-par
 Currently, I'm working on change-point analysis for network time series.
 
 
-[Here's my CV](Dom-Owens-UoB.github.io/assets/CV_DomOwens.pdf)
+[Here's my CV](https://dom-owens-uob.github.io/assets/CV_DomOwens.pdf)
