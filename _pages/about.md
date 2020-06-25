@@ -9,13 +9,13 @@ I'm a [Statistics](https://www.bristolmathsresearch.org/statistical-science/) Ph
 
 My interests include:
 
-- Time series analysis 
+- Time series analysis
 
 - High dimensional statistics
 
--Non-parametric statistics
+- Non-parametric statistics
 
- -Large-scale inference
+- Large-scale inference
 
 Currently, I'm working on change-point analysis for network time series.
 
