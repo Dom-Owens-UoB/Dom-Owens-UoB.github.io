@@ -18,4 +18,6 @@ My interests include:
 
 - Economic, financial, and climate applications
 
+As of June 2021, I'm working with [CheckRisk](https://check-risk.com/) on a research internship. 
+
 [Here's my CV](https://dom-owens-uob.github.io/assets/CV_DomOwens.pdf)
