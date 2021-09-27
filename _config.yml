@@ -23,7 +23,7 @@ search: true
 title_separator: "|"
 teaser: /assets/images/Voronoi.png
 logo: /assets/images/Delta.png
-google_analytics: G-3KD40F7TQP
+google_analytics: UA-208532418-1
 
 # Build settings
 markdown: kramdown
