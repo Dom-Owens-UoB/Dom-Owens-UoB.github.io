@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Dom Owens"
-  avatar : "/assets/images/Dom1.jpg"
+  avatar : "/assets/images/Dom1.jpg" 
   bio    : "Statistics PhD student at the University of Bristol."
   location: "Bristol, UK"
   links:
