@@ -5,7 +5,10 @@ title: "Research"
 
 ![](Voronoi.jpg)
 
-# Software
+- [FNETS](https://arxiv.org/abs/2201.06110)
+
+Factor-adjusted network estimation and forecasting for high-dimensional time series. `R` package available via [github](https://github.com/Dom-Owens-UoB/fnets)
+
 
 - [Changepoints.jl](https://github.com/STOR-i/Changepoints.jl)
 
