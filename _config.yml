@@ -75,6 +75,8 @@ author:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-8110-7461"
+    - label: "Google Scholar" 
+      url: "https://scholar.google.com/citations?hl=en&user=uu0oI9sAAAAJ"
 
 
 footer:
