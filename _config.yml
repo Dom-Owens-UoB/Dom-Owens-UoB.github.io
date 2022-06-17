@@ -23,7 +23,11 @@ search: true
 title_separator: "|"
 teaser: /assets/images/Voronoi.png
 logo: /assets/images/Delta.png
-google_analytics: UA-208532418-1
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-208532418-1"
+    anonymize_ip: false # default
 
 # Build settings
 markdown: kramdown
