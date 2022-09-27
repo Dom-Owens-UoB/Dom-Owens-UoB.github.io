@@ -2,6 +2,7 @@
 permalink: /talks/
 title: "Talks and Presentations"
 ---
+- 13/09/2022: "FNETS: An R Package for Network Analysis and Forecasting of High-Dimensional Time Series with Factor-Adjusted Vector Autoregressive Models" (poster), University of Bristol, Compass conference 
 
 - 27/06/2022: "High-dimensional data segmentation in regression settings permitting heavy tails and temporal dependence", IMS Annual Meeting
 
