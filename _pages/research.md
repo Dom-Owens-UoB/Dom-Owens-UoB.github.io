@@ -4,6 +4,11 @@ title: "Research"
 ---
 
 ![](Voronoi.jpg)
+- [FNETS](https://arxiv.org/abs/2301.11675)
+
+An R Package for Network Estimation and Forecasting via Factor-Adjusted VAR Modelling, by Dom Owens, Haeran Cho and Matteo Barigozzi.
+Available via [CRAN](https://cran.r-project.org/web/packages/fnets/)
+
 
 - [MOSEG](https://arxiv.org/abs/2209.08892)
 
