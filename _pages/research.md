@@ -26,3 +26,7 @@ Factor-adjusted network estimation and forecasting for high-dimensional time ser
 
 A Julia package for the detection of multiple changepoints in time series.
 
+
+- [mosum.py](https://github.com/Dom-Owens-UoB/mosum.py)
+
+A python package for the detection of multiple mean changes in time series data.
