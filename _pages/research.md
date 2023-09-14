@@ -7,6 +7,7 @@ title: "Research"
 - [FNETS](https://arxiv.org/abs/2301.11675)
 
 An R Package for Network Estimation and Forecasting via Factor-Adjusted VAR Modelling, by Dom Owens, Haeran Cho and Matteo Barigozzi.
+To appear in The R Journal.
 Available via [CRAN](https://cran.r-project.org/web/packages/fnets/)
 
 
@@ -19,6 +20,7 @@ Available via [CRAN](https://cran.r-project.org/web/packages/fnets/)
 - [FNETS](https://arxiv.org/abs/2201.06110)
 
 Factor-adjusted network estimation and forecasting for high-dimensional time series, by Matteo Barigozzi, Haeran Cho and Dom Owens.
+To appear in The Journal of Business and Economic Statistics.
 `R` package available via [github](https://github.com/Dom-Owens-UoB/fnets)
 
 
