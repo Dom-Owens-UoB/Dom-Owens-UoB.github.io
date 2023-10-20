@@ -17,10 +17,10 @@ Available via [CRAN](https://cran.r-project.org/web/packages/fnets/)
 `R` package available via [github](https://github.com/Dom-Owens-UoB/moseg)
 
 
-- [FNETS](https://arxiv.org/abs/2201.06110)
+- [FNETS](https://www.tandfonline.com/doi/full/10.1080/07350015.2023.2257270) [ArXiv](https://arxiv.org/abs/2201.06110)
 
 Factor-adjusted network estimation and forecasting for high-dimensional time series, by Matteo Barigozzi, Haeran Cho and Dom Owens.
-To appear in The Journal of Business and Economic Statistics.
+The Journal of Business and Economic Statistics.
 `R` package available via [github](https://github.com/Dom-Owens-UoB/fnets)
 
 
