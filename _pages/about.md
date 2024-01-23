@@ -17,6 +17,6 @@ My interests include:
 
 - Applications to Economics, Finance, and Climate science 
 
-I now work at [Pharo Management]<https://www.pharo.com/>.
 
+I now work at [Pharo Management]<https://www.pharo.com/>.
 
