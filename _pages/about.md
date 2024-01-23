@@ -17,6 +17,6 @@ My interests include:
 
 - Applications to Economics, Finance, and Climate science 
 
-I now work at [BNP Paribas]<https://cib.bnpparibas/>.
+I now work at [Pharo Management]<https://www.pharo.com/>.
 
-[//]<[Here's my CV](https://dom-owens-uob.github.io/assets/CV_DomOwens.pdf)>
+
